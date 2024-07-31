@@ -566,6 +566,7 @@ body {
     color: black;
     justify-content: space-between;
     margin-left: 40%;
+    margin-top: -270px;
 }
 
 .footer-upper h4 {
@@ -599,4 +600,28 @@ body {
 .list-none li{
     margin-bottom: 0.5rem;
     text-align: left;
+}
+.footer-left{
+    text-align: left;
+    margin-left: 40px;
+
+}
+
+.footer-left h3{
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.footer-left h6{
+    font-size: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.footer-left h5{
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+.footer-left i{
+    font-size: 30px;
 }
